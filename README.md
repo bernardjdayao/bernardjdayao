@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 <p>Updates your current local working branch with all new 
 commits from the corresponding remote branch on GitHub. 
  git pull is a combination of git fetch and git merge</p>
+
+<h6>git add .</h6>
+<p>Adds all your files to the staged changes for you to commit later on the local repository</p>
+
+<h6>git commit -m "message"</h6>
+<p>Commits all your staged changes and saves everything to your local repository for you to push later on the remote repository</p>
